@@ -9,9 +9,6 @@ on:
       - hotfix/*
       - alpha
 
-env:
-  REPO_NAME: comercialweber-app
-
 jobs:
   check-application:
     runs-on: ubuntu-latest
