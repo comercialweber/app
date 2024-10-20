@@ -16,7 +16,7 @@ FROM node:22.9.0-alpine3.20
 
 WORKDIR /app
 
-COPY --from=builder /app/next ./next
+COPY --from=builder /app/.next ./.next
 
 EXPOSE 3000
 
