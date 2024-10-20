@@ -1,3 +1,10 @@
+# [1.0.0-beta.6](https://github.com/comercialweber/app/compare/v1.0.0-beta.5...v1.0.0-beta.6) (2024-10-20)
+
+
+### Bug Fixes
+
+* :bug: adjuste Dockerfile ([bd86135](https://github.com/comercialweber/app/commit/bd861354457da2f818fb11e57f6125dfdc15296d))
+
 # [1.0.0-beta.5](https://github.com/comercialweber/app/compare/v1.0.0-beta.4...v1.0.0-beta.5) (2024-10-20)
 
 
