@@ -55,7 +55,7 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: true
-          tags: ${{ecrets.DOCKERHUB_USERNAME}}/comercialweber-${{REPO_NAME}}:${{ steps.release.outputs.new_release_version }}
+          tags: ${{secrets.DOCKERHUB_USERNAME}}/comercialweber-${{REPO_NAME}}:${{ steps.release.outputs.new_release_version }}
 
       - name: Check secrets
         run: |
