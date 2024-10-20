@@ -1,3 +1,12 @@
+# [1.0.0-beta.5](https://github.com/comercialweber/app/compare/v1.0.0-beta.4...v1.0.0-beta.5) (2024-10-20)
+
+
+### Bug Fixes
+
+* :bug: adjuste ([b3db924](https://github.com/comercialweber/app/commit/b3db924554924e590215d2bdaea7761fc2a05534))
+* :bug: adjuste repo_name ([94100ad](https://github.com/comercialweber/app/commit/94100adc9e28f35bbbc75128ff2e668067017f12))
+* :bug: adjuste repo_name ([85bdb7a](https://github.com/comercialweber/app/commit/85bdb7ae4ead8cb9a0a31650e07a1c02befc06eb))
+
 # [1.0.0-beta.4](https://github.com/comercialweber/app/compare/v1.0.0-beta.3...v1.0.0-beta.4) (2024-10-20)
 
 
