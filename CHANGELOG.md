@@ -1,3 +1,10 @@
+# [1.0.0-beta.2](https://github.com/comercialweber/app/compare/v1.0.0-beta.1...v1.0.0-beta.2) (2024-10-20)
+
+
+### Bug Fixes
+
+* :bug: adjuste repo_name env ([5f3ebe8](https://github.com/comercialweber/app/commit/5f3ebe813f2fe7dd51817cd74aa2add7033eda08))
+
 # 1.0.0-beta.1 (2024-10-20)
 
 
