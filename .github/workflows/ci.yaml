@@ -57,6 +57,10 @@ jobs:
           push: true
           tags: ${{ secrets.DOCKERHUB_USERNAME }}/$REPO_NAME:${{ steps.release.outputs.new_release_version }}
 
+      - name: Check secrets
+        run: |
+          echo "DockerHub username: ${{ secrets.DOCKERHUB_USERNAME }}"
+
   scan:
     name: Vulnerabilities scan
     needs: [check-application]
