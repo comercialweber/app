@@ -66,4 +66,4 @@ jobs:
     needs: [check-application]
     uses: comercialweber/github-workflows/.github/workflows/vulnerabilities-scan.yaml@main
     with:
-      docker_image: $secrets.DOCKERHUB_USERNAME/$REPO_NAME:${{ steps.release.outputs.new_release_version }}
+      docker_image: $secrets.DOCKERHUB_USERNAME/$REPO_NAME:$steps.release.outputs.new_release_version
